@@ -113,6 +113,11 @@ Repositories demonstrating Git Restore, Git Revert, Git Ignore and version contr
 🔄 Security Automation
 
 ---
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=amin-devsec&theme=github-dark)
+
+---
 
 ## 📊 GitHub Stats
 
