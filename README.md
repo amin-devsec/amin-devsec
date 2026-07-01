@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/banner.png" width="100%">
+</p>
 
 # Hi 👋, I'm Amin Ullah
 
@@ -123,11 +125,15 @@ Repositories demonstrating Git Restore, Git Revert, Git Ignore and version contr
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=amin-devsec&theme=tokyonight&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amin-devsec&theme=tokyonight&layout=compact)
 ---
 
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amin-devsec&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amin-devsec&layout=compact&theme=github_dark)
+
+---
 ## 📫 Connect With Me
 
 📧 Email: aminullahcybersec@gmail.com
