@@ -124,9 +124,9 @@ Repositories demonstrating Git Restore, Git Revert, Git Ignore and version contr
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: aminullahcybersec@gmail.com
 
-💼 LinkedIn: Your LinkedIn Profile
+💼 LinkedIn: https://www.linkedin.com/in/amin-ullah-a3548b39b/
 
 🌐 GitHub: https://github.com/amin-devsec
 
