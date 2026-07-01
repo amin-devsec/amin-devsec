@@ -1,104 +1,134 @@
-<p >
-  <img src="assets/banner.png" width="100%">
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Amin Ullah Banner"/>
 </p>
 
-# Hi 👋, I'm Amin Ullah
+<h1 align="center">Hi, I'm Amin Ullah 👋</h1>
 
-### Cyber Security Student | Python Learner | Future SOC Analyst & DevOps Engineer
+<h3 align="center">
+Cyber Security Student • Python Learner • Future SOC Analyst & DevOps Engineer
+</h3>
 
-🎓 BS Cyber Security (2nd Year, 4th Semester)
-📍 University of Haripur, Pakistan
+<p align="center">
+🎓 BS Cyber Security • University of Haripur, Pakistan • 2nd Year (4th Semester)
+</p>
 
----
+<p align="center">
+<a href="https://www.linkedin.com/in/amin-ullah-a3548b39b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 👨‍💻 About Me
+<a href="https://github.com/amin-devsec">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-I'm a Cyber Security undergraduate passionate about learning how secure systems are built, deployed, and defended.
-
-I enjoy building software projects while continuously improving my programming, Linux, and networking skills. My current focus is strengthening my backend development knowledge with Python while preparing for a future career in Security Operations (SOC) and DevOps.
-
-I believe in learning by building practical projects and documenting my progress on GitHub.
-
----
-
-## 🎯 Current Goals
-
-- 🔐 Learn SOC Analyst fundamentals
-- 🐧 Improve Linux administration skills
-- 🐍 Become a Python Backend Developer
-- ⚙️ Learn DevOps tools and workflows
-- ☁️ Explore Cloud Security
-- 🚀 Build real-world security projects
+<img src="https://komarev.com/ghpvc/?username=amin-devsec&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+</p>
 
 ---
 
-## 💻 Skills
+# 👨‍💻 About Me
 
-### Programming
+I'm a **Cyber Security undergraduate** passionate about learning how secure systems are built, deployed, and defended.
 
-- Python (Basic)
-- C++
-- JavaScript (Basic)
+I enjoy building software projects while continuously improving my **Python**, **Linux**, and **Networking** skills. My current focus is strengthening my **backend development** knowledge while preparing for a career in **Security Operations (SOC)** and **DevOps**.
 
-### Web Development
+I believe in **learning by building** and documenting every project on GitHub.
 
-- HTML5
-- CSS3
-- Basic Frontend Development
+---
+
+# 🎯 Current Focus
+
+- 🔐 SOC Analyst
+- 🐍 Python Backend Development
+- 🐧 Linux Administration
+- ⚙️ DevOps
+- ☁️ Cloud Computing
+- 🛡️ Cyber Security
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
 ### Database
 
-- MySQL (Basic)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Operating Systems
+### Operating System
 
-- Linux (Basic)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Version Control
+### Tools
 
-- Git
-- GitHub
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📚 Currently Learning
+# 🚀 Featured Projects
+
+🚍 **Transport Management System**
+
+- C++
+- OOP
+- File Handling
+- Admin Login
+
+🛡️ **CyberShield**
+
+- Cyber Security Awareness Website
+
+🌐 **Frontend Practice**
+
+- HTML
+- CSS
+- JavaScript
+
+📖 **Git Learning**
+
+- Git Restore
+- Git Revert
+- Git Ignore
+
+---
+
+# 📚 Currently Learning
 
 - Python Backend Development
-- Linux
+- Linux Administration
 - MySQL
-- DevOps Fundamentals
 - Networking
-- Cyber Security Labs
+- DevOps
+- Docker
+- Cloud Computing
 
 ---
 
-## 🚀 Projects
+# 🛣️ Learning Roadmap
 
-### 🚍 Transport Management System
-Console-based C++ application demonstrating Object-Oriented Programming, File Handling, and Admin Authentication.
+✅ HTML & CSS
 
-### 🛡 CyberShield
-A beginner cyber security awareness website.
+✅ Basic Python
 
-### 🌐 Frontend Practice Projects
-HTML, CSS and JavaScript practice projects for improving frontend development.
+✅ Basic Linux
 
-### 📖 Git Learning Repositories
-Repositories demonstrating Git Restore, Git Revert, Git Ignore and version control concepts.
+✅ Basic MySQL
 
----
-
-## 🛣️ Learning Roadmap
-
-✔ HTML & CSS
-
-✔ Basic Python
-
-✔ Basic Linux
-
-✔ Basic MySQL
-
-🔄 Python Backend Development
+🔄 Python Backend
 
 🔄 Networking
 
@@ -108,54 +138,42 @@ Repositories demonstrating Git Restore, Git Revert, Git Ignore and version contr
 
 🔄 CI/CD
 
-🔄 Cloud Computing
-
 🔄 SOC Analyst
 
-🔄 Ethical Hacking
+🔄 Cloud Security
 
 🔄 Security Automation
 
 ---
-## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=amin-devsec&theme=github-dark)
+# 🔥 GitHub Streak
 
----
-
-## 📊 GitHub Stats
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amin-devsec&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amin-devsec&layout=compact&theme=github_dark)
-
----
-## 📫 Connect With Me
-
-📧 Email: aminullahcybersec@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/amin-ullah-a3548b39b/
-
-🌐 GitHub: https://github.com/amin-devsec
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=amin-devsec&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
-<!--
-**amin-devsec/amin-devsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 GitHub Stats
 
-Here are some ideas to get you started:
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amin-devsec&show_icons=true&theme=github_dark&hide_border=true"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amin-devsec&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** aminullahcybersec@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/amin-ullah-a3548b39b/
+
+🌐 **GitHub:** https://github.com/amin-devsec
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
