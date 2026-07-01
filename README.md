@@ -114,12 +114,11 @@ Repositories demonstrating Git Restore, Git Revert, Git Ignore and version contr
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amin-devsec&show_icons=true&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=amin-devsec&theme=tokyonight&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amin-devsec&layout=compact&theme=github_dark)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amin-devsec&theme=tokyonight&layout=compact)
 ---
 
 ## 📫 Connect With Me
